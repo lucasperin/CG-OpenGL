@@ -1,6 +1,6 @@
 
 /* Scale */
-#define SCALE 1.3
+float SCALE = 1.3;
 int rotateAngle = 90;
 int maxStep = 8;
 int frame = 0;

@@ -33,6 +33,10 @@ void keyboard (unsigned char key, int x, int y)
 				WIRED = 1;
 			break;
 		case 'w':
+				SCALE = SCALE + 0.1;
+			break;
+		case 's':
+				SCALE = SCALE - 0.1;
 			break;
 		case 'a':
 				rotateAngle += 10;

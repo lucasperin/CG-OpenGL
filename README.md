@@ -14,10 +14,12 @@ Instruções
 
 ## Teclas Implementadas:
 
-* '1': toggle GL_FLAT/GLSMOOTH
-* '2': toggle Wire/Solid
-* 'a': rotação para a esquerda
-* 'b': rotação para a direita
+* '1': Toggle GL_FLAT/GLSMOOTH
+* '2': Toggle Wire/Solid
+* 'a': Rotação para a esquerda
+* 'b': Rotação para a direita
+* 'w': Escalonar -
+* 's': Escalonar +
 * 'espaço': toggle caminhada / corrida
 
 
